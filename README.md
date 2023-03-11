@@ -7,3 +7,4 @@ learning repasotry
 
 ## how to contribute 
 
+git training 
