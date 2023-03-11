@@ -11,4 +11,5 @@ learning repasotry
 ### hola amigo
 this path is about amigos 
 
+## adding new line for who ready learn
 git training 
