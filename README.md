@@ -7,4 +7,8 @@ learning repasotry
 
 ## how to contribute 
 
+
+### hola amigo
+this path is about amigos 
+
 git training 
