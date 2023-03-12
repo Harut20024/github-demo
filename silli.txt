@@ -5,5 +5,4 @@ The CONTRIBUTING.md file appears under a section named “Changes not staged for
 
 
 
-
 this path is about changing.
